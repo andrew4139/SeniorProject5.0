@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SeniorProject</string>
+    <string name="appAddCustomer_name">Add Customer</string>
+    <string name="appSearchCustomer_name">Search</string>
+    <string name="appDisplayCustomer_name">Customer Information</string>
+    <string name="textSearch">Search </string>
+    <string name="textCust"> New Customer </string>
+    <string name="textScan"> Scanner </string>
+    <string name="textViewAddNewCust"> Add New Customer</string>
+    <string name="firstView"> First Name </string>
+    <string name="lastView"> Last Name </string>
+    <string name="companyView"> Company Name </string>
+    <string name="addressView"> Company Address </string>
+    <string name="phoneView"> Company Phone Number </string>
+    <string name="emailView"> Company E-mail </string>
+    <string name="buttonAddCustomer"> Add Customer </string>
+    <string name="stateView"> State </string>
+    <string name="zipcodeView"> Zip Code</string>
+
+</resources>
