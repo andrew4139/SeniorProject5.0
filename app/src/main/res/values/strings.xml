@@ -16,5 +16,8 @@
     <string name="buttonAddCustomer"> Add Customer </string>
     <string name="stateView"> State </string>
     <string name="zipcodeView"> Zip Code</string>
+    <string name="buttonDeleteCustomer"> Delete </string>
+    <string name="buttonInventory"> Inventory </string>
+    <string name="buttonOrders"> Orders</string>
 
 </resources>

@@ -23,9 +23,9 @@ public class ProfileActivity extends AppCompatActivity implements View.OnClickLi
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_profile);
 
-        textViewUserEmail = (TextView) findViewById(R.id.textViewUserEmail);
+        //textViewUserEmail = (TextView) findViewById(R.id.textViewUserEmail);
         buttonLogout = (Button) findViewById(R.id.buttonLogout);
-        textViewUserEmail.setText("Welcome ");
+        //textViewUserEmail.setText("Welcome ");
 
         firebaseAuth = FirebaseAuth.getInstance();
         if(firebaseAuth.getCurrentUser()== null){
